@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net6.0\05. Login.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net6.0\05. Login.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net6.0\05. Login.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net6.0\05. Login.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net6.0\05. Login.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\refint\05. Login.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\05. Login.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net6.0\ref\05. Login.dll

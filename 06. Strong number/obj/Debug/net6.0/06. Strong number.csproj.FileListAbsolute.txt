@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net6.0\06. Strong number.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net6.0\06. Strong number.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net6.0\06. Strong number.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net6.0\06. Strong number.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\bin\Debug\net6.0\06. Strong number.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\refint\06. Strong number.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\06. Strong number.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\06. Strong number\obj\Debug\net6.0\ref\06. Strong number.dll

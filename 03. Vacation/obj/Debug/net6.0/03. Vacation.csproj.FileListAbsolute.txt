@@ -1,0 +1,15 @@
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.exe
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.deps.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.runtimeconfig.json
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\bin\Debug\net6.0\03. Vacation.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.AssemblyReference.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfoInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfo.cs
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.CoreCompileInputs.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\refint\03. Vacation.dll
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.pdb
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\03. Vacation.genruntimeconfig.cache
+E:\SoftUni\Basic Syntax, Conditional Statements and Loops - Exercise\03. Vacation\obj\Debug\net6.0\ref\03. Vacation.dll
